@@ -1,7 +1,7 @@
 # TicTacToe
 its a game
-Generally we use to play game a lot
-Have created this game in python allows users to play by entering the numbers
+Generally we use to play games a lot
+this game is developed in python allows users to play Tic-Tac-Toe by entering the numbers
 
 Rules to play:
 1. You must enter a digit from 0-9
